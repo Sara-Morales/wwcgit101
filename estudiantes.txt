@@ -4,32 +4,29 @@
 4. Juangui Ramirez Gomez
 5. Luisa Ramirez
 6. Maria Victoria Higuita
-8. Luz Angely Salcedo
-7. Andrés García Molina
-8. Daniela Munoz
-
-7. Andrés García Molina
-8. Luz Angely Salcedo
-9. Laura Posada
-10. Paulina Zuluaga
-11. Andrés Santa
-12. Ana Loaiza
-13. Daniela Munoz
-14. Andrés Campuzano
-15. Andres Felipe
-16. Adriana Restrepo
-17. Paulina Rendon
-18. Laura Barrero
-19. Mariana Arroyave
-20. Andres Gomez
-21. Natalia Perez
-22. Manuela Gómez
-23. Laura vargas
-24. Jaime Ríos Ruiz
-25. Camila Angel
-26. Luisa Calderon
-27. Camila
-28. Brenda Bustamante
-29. Natalia Orozco lopez
-30. Jacke Vera
-31. Sara Morales
+7. Luz Angely Salcedo
+8. Andrés García Molina
+9. Andrés García Molina
+10. Laura Posada
+11. Paulina Zuluaga
+12. Andrés Santa
+13. Ana Loaiza
+14. Daniela Munoz
+15. Andrés Campuzano
+16. Andres Felipe
+17. Adriana Restrepo
+18. Paulina Rendon
+19. Laura Barrero
+20. Mariana Arroyave
+21. Andres Gomez
+22. Natalia Perez
+23. Manuela Gómez
+24. Laura vargas
+25. Jaime Ríos Ruiz
+26. Camila Angel
+27. Luisa Calderon
+28. Camila
+29. Brenda Bustamante
+30. Natalia Orozco lopez
+31. Jacke Vera
+32. Sara Morales
